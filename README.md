@@ -1,1 +1,1 @@
-# mintwab.gethub.io
+# mintwab.github.io
